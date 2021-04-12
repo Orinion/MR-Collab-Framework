@@ -3,8 +3,8 @@
 Classes that support Unity MR Collab Apps
 
 <p align="center">
-  <img width="768" height="432" src="https://user-images.githubusercontent.com/12730894/114381019-f699d180-9b8a-11eb-9b9b-59cd3dd96f6a.png">
-  <img width="684" height="432" src="https://user-images.githubusercontent.com/12730894/114381048-fbf71c00-9b8a-11eb-8bb7-4b2057d1d091.png">
+  <img height="250" alt="AR" src="https://user-images.githubusercontent.com/12730894/114381019-f699d180-9b8a-11eb-9b9b-59cd3dd96f6a.png">
+  <img height="250" alt="VR" src="https://user-images.githubusercontent.com/12730894/114381048-fbf71c00-9b8a-11eb-8bb7-4b2057d1d091.png">
 </p>
 
 ## feature overview
@@ -18,8 +18,10 @@ Classes that support Unity MR Collab Apps
 ## Demo
 
 You can see the classes in action in the demo.
-![Demo Video](https://github.com/Orinion/MR-Collab-Framework/releases/download/VIDEO/VideoTTS-small.mp4)
-It features a pc maintenance scenario, where the goal is to change the hard drive of a computer.
+
+[![Video](https://user-images.githubusercontent.com/12730894/114398412-0ec81b80-9ba0-11eb-9c9f-df4190dc8c08.png)](https://github.com/Orinion/MR-Collab-Framework/releases/download/VIDEO/VideoTTS-small.mp4)
+
+The demo is a pc maintenance scenario, where the goal is to change the hard drive of a computer.
 You can find a download for the AR and VR unity project [here](https://github.com/Orinion/MR-Collab-Framework/releases/tag/DEMO)
 
 ## class overview
@@ -50,6 +52,9 @@ To share the Spatial mapping of the environment of the AR user with the VR user,
 
 ### setting up new unity project
 
+- add the [SteamVR](https://valvesoftware.github.io/steamvr_unity_plugin/) plugin in your VR project
+- add the [MRTK](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/mrtk-getting-started) in your AR project
+- add the [MR-WebRTC](https://microsoft.github.io/MixedReality-WebRTC/)  unity library to both projects.
 
 ## Licenses
 
