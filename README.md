@@ -12,14 +12,14 @@ Classes that support Unity MR Collab Apps
 - avatar system
 - mark realworld objects
 - share spatial mesh
-- syncronize markers
+- syncronize data
 - display task
 
 ## Demo
 
 You can see the classes in action in the demo.
 
-[![Video](https://user-images.githubusercontent.com/12730894/114398412-0ec81b80-9ba0-11eb-9c9f-df4190dc8c08.png)](https://github.com/Orinion/MR-Collab-Framework/releases/download/VIDEO/VideoTTS-small.mp4)
+https://user-images.githubusercontent.com/12730894/116037627-aaf62600-a668-11eb-918a-65308bfd184b.mp4
 
 The demo is a pc maintenance scenario, where the goal is to change the hard drive of a computer.
 You can find a download for the AR and VR unity project [here](https://github.com/Orinion/MR-Collab-Framework/releases/tag/DEMO)
